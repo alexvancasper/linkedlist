@@ -3,3 +3,5 @@ LinkedList realization
 
 # LinkedList tasks
 addTwoNumbers
+mergeTwoLists
+reorderLit
